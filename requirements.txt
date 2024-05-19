@@ -1,0 +1,13 @@
+jax
+jaxlib
+keras
+keras_nlp
+tensorflow
+numpy
+pandas
+matplotlib
+nltk
+scikit-learn
+textstat
+seaborn
+
